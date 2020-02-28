@@ -20,11 +20,23 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Postdoctoral Researcher"
+  company = "Gent University"
+  company_url = "https://www.ugent.be/en"
+  location = "Gent, Flanders, Belgium"
+  date_start = "2019-04-01"
+  date_end = ""
+  description = """
+  Responsibilities included:
+  
+  * TBA
+  """
+[[experience]]
+  title = "Postdoctoral Researcher"
   company = "The University of Florida"
   company_url = "https://www.ufl.edu/"
   location = "Gainesville, FL, USA"
   date_start = "2019-05-01"
-  date_end = ""
+  date_end = "2020-03-09"
   description = """
   Responsibilities included:
   
