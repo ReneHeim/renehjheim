@@ -69,8 +69,7 @@ time_format = "3:04 PM"
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "rene.heim@ugent.be"
 phone = ""
-address = "UAV Research Centre (URC), Campus Coupure, Coupure Links 653, 9000 Gent, België
-"
+address = "UAV Research Centre (URC), Campus Coupure, Coupure Links 653, 9000 Gent, België"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
