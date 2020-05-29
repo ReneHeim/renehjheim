@@ -14,8 +14,8 @@ role: (Dr. rer. nat.) <br> Postdoctoral Researcher - Remote Sensing of Plant Str
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Florida
-  url: "https://faculty.eng.ufl.edu/machine-learning"
+- name: Gent University
+  url: "https://www.ugent.be/bw/en"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile #computing and programmable matter.

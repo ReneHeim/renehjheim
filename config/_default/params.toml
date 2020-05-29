@@ -67,9 +67,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "r.heim@ufl.edu"
+email = "rene.heim@ugent.be"
 phone = ""
-address = "Machine Learning and Sensing Lab | New Engineering Building | 1064 Center Dr, Gainesville, FL 32611, USA"
+address = "UAV Research Centre (URC), Campus Coupure, Coupure Links 653, 9000 Gent, België"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
@@ -105,8 +105,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = ""
-latitude = "29.642594"
-longitude = "-82.347190"
+latitude = "51.052970"
+longitude = "3.708921"
 zoom = 15
 
 ############################
