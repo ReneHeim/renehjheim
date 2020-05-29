@@ -48,13 +48,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:r.heim@ufl.edu".
+  link: '#contact'  # For a direct email link, use "mailto:rene.heim@ugent.be".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ReneHJHeim
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.de/citations?user=euEtCEwAAAAJ&hl=en
+  link: https://scholar.google.de/citations?user=cGT95yoAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
   link: https://github.com/ReneHeim
