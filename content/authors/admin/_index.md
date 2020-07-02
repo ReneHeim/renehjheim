@@ -77,11 +77,18 @@ user_groups:
 ![](/img/logo.png)
 
 <div style = "text-align: justify">
+<b>Remote Sensing</b>
+<br>
 My research goals are focused on thermal and hyperspectral remote sensing for abiotic and biotic plant stress detection and differentiation. I am driven to investigate links between high dimensional remote sensing data, plant functional properties and plant stress responses in our managed and natural landscapes.
 <br>
+<b>Plant Health</b>
 <br>
 I strongly believe that our managed and natural landscapes can, and must, co-exist in a more efficient way. If we understand the various functions and strategies of plants, we can cultivate and protect them at the same time. I am passionate about transparent and interdisciplinary research. To conduct such research, I am trying to create teams and collaborations with experts from various disciplines. To be able to communicate with all of them, I am learning the methods and languages of plant pathology, functional ecology, statistical programming and machine learning.
-
+<br>
+<b>Functional Plant Traits</b>
+<br>
+TEXTTEXT
+<br>
 For more details, please browse this page or download my  
 <a href="/files/cv.pdf">CV</a>.
 </div>
