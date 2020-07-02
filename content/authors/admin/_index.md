@@ -77,7 +77,7 @@ user_groups:
 ![](/img/logo.png)
 
 <div style = "text-align: justify">
-With a background in Bioengineering (B.Sc.) and Plant Biology (M.Sc.) I quickly realized that many vexing and global problems have a good chance of being solved by interdisciplinary teams. My role in such teams is to have a general understanding of the interfacing disciplines and communicate concepts and ideas, eventually leading to meaningful and applicable solutions.
+With a background in Bioengineering (B.Sc.) and Plant Biology (M.Sc.) I quickly realized that many vexing and global problems have a good chance of being solved by interdisciplinary teams. My role in such teams is to have a general understanding of the interfacing disciplines, to communicate concepts and ideas, and eventually translate them into meaningful and applicable solutions.
 <br>
 <br>
 <b>Remote Sensing</b>
@@ -95,8 +95,8 @@ I strongly believe that our managed and natural landscapes can, and must, co-exi
 <b>Functional Plant Traits</b>
 <br>
 <br>
-The third concept of my research is the plant functional paradigm. Wright et al. [2004](https://www.nature.com/articles/nature02403)
-showed that plant investments in leaf traits represent long-term adaptations to their biotic and abiotic living conditions. [Relating leaf traits to plant - and therefore - ecosystem functionality](https://doi.org/10.1093/acprof:oso/9780198757368.001.0001), can help us to better understand plant strategies and how plants adapt to their environment. If we understand the various functions and strategies of plants, we can cultivate and protect them at the same time.
+The third concept of my research is the plant functional paradigm. Wright et al. <a href="https://www.nature.com/articles/nature02403">2004</a>
+showed that plant investments in leaf traits represent long-term adaptations to their biotic and abiotic living conditions. <a href="https://doi.org/10.1093/acprof:oso/9780198757368.001.0001">Relating leaf traits to plant - and therefore - ecosystem functionality</a>, can help us to better understand plant strategies and how plants adapt to their environment. If we understand the various functions and strategies of plants, we can cultivate and protect them at the same time.
 <br>
 <br>
 For more details, please browse this page or download my  
