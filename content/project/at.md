@@ -1,11 +1,11 @@
 ---
-title: Thermal and hyperspectral imaging for aflatoxin detection in peanuts.
+title: Multiangular estimation of plant chlorophyll concentration (Cab), and canopy leaf area index (LAI) using radiative transfer modelling.
 tags:
-- aflatoxin
+- UAV
 - thermal
 - hyperspectral
 - drones
-- plant traits
+- agriculture
 date: "2019-01-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -33,7 +33,5 @@ slides: example
 
 <div style = "text-align: justify">
 
-Aflatoxins are secondary metabolites of filamentous fungi and one of multiple mycotoxins. They are mainly produced by the species, <i>Aspergillus flavus</i> and <i>A. parasiticus</i> and can have a variety of globally relevant food crops as a host. Aflatoxins are categorized as Group-1 carcinogens, and according to the National Institutes of Health, are responsible for increased risks for liver cancer.
-Controlling aflatoxin throughout the food system is challenging and requires a truly integrated systems approach because vulnerability to contamination occurs in various system stages: in-field production, harvest, and storage. In our project, we are looking at options to detect aflatoxins in the field by means of hyperspectral, aerial remote sensing, near-range thermal imaging, disease related functional plant traits and volatile organic compounds.
-This project takes a novel approach for detecting and predicting aflatoxin in relevant agronomic food system chains by using a multi-disciplinary approach for accurately assessing and managing aflatoxin vulnerable points.
+Current processing software of aerial imagery removes the potential for multi-angular observations. Therefore, it is neither possible to correct for directional influences of incoming and outgoing light nor to use the observations from multiple angles as an additional information source for the retrieval of biophysical plant parameters. We are currently studying the potential of UAV-retrieved multi-angular reflectance data for the estimation of LAI and Cab by inversion of the SCOPE (SoilCanopy  Observation,  Photochemistry  and  Energy  fluxes). model.
 </div>

@@ -77,7 +77,7 @@ user_groups:
 ![](/img/logo.png)
 
 <div style = "text-align: justify">
-With a background in Bioengineering (B.Sc.) and Plant Biology (M.Sc.) I quickly realized that many vexing and global problems have a good chance of being solved by interdisciplinary teams. My role in such teams is to have a general understanding of the interfacing disciplines, to communicate concepts and ideas, and eventually translate them into meaningful and applicable solutions.
+With a background in Bioengineering (B.Sc.) and Plant Biology (M.Sc.) I quickly realized that many vexing and global problems have a good chance of being solved by interdisciplinary teams. My role in such teams is to have a general understanding of the interfacing disciplines, to communicate concepts and ideas, and eventually translating those ideas into meaningful and applicable solutions.
 <br>
 <br>
 <b>Remote Sensing</b>
