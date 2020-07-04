@@ -96,7 +96,7 @@ I strongly believe that our managed and natural landscapes can, and must, co-exi
 <br>
 <br>
 The third concept of my research is the plant functional paradigm. Wright et al. <a href="https://www.nature.com/articles/nature02403">2004</a>
-showed that plant investments in leaf traits represent long-term adaptations to their biotic and abiotic living conditions. <a href="https://doi.org/10.1093/acprof:oso/9780198757368.001.0001">Relating leaf traits to plant - and therefore - ecosystem functionality</a>, can help us to better understand plant strategies and how plants adapt to their environment. If we understand the various functions and strategies of plants, we can cultivate and protect them at the same time.
+showed that plant investments in leaf traits represent long-term adaptations to their biotic and abiotic living conditions. <a href="https://doi.org/10.1093/acprof:oso/9780198757368.001.0001">Relating leaf traits to plant - and therefore - ecosystem functionality</a>, can help us to better understand plant strategies and their adaptations to pathogens. If we understand how plant defenses are expressed in functional traits, we can translate those into optical traits. These can be picked up with remote sensing techniques. This interplay of discipline-specific knowledge can help us to cultivate and protect plant species at the same time.
 <br>
 <br>
 For more details, please browse this page or download my  
