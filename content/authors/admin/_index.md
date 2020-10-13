@@ -48,13 +48,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:r.heim@ufl.edu".
+  link: '#contact'  # For a direct email link, use "mailto:rene.heim@ugent.be".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ReneHJHeim
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.de/citations?user=euEtCEwAAAAJ&hl=en
+  link: https://scholar.google.de/citations?user=cGT95yoAAAAJ&hl=en&authuser=1
 - icon: github
   icon_pack: fab
   link: https://github.com/ReneHeim
@@ -77,11 +77,28 @@ user_groups:
 ![](/img/logo.png)
 
 <div style = "text-align: justify">
-My research goals are focused on thermal and hyperspectral remote sensing for abiotic and biotic plant stress detection and differentiation. I am driven to investigate links between high dimensional remote sensing data, plant functional properties and plant stress responses in our managed and natural landscapes.
+With a background in Bioengineering (B.Sc.) and Plant Biology (M.Sc.) I quickly realized that many vexing and global problems have a good chance of being solved by interdisciplinary teams. My role in such teams is to have a general understanding of the interfacing disciplines, to communicate concepts and ideas, and eventually translating those ideas into meaningful and applicable solutions.
 <br>
 <br>
-I strongly believe that our managed and natural landscapes can, and must, co-exist in a more efficient way. If we understand the various functions and strategies of plants, we can cultivate and protect them at the same time. I am passionate about transparent and interdisciplinary research. To conduct such research, I am trying to create teams and collaborations with experts from various disciplines. To be able to communicate with all of them, I am learning the methods and languages of plant pathology, functional ecology, statistical programming and machine learning.
-
+<b>Remote Sensing</b>
+<br>
+<br>
+My first core expertise lies in remote sensing of vegetated landscapes. I am mostly interested in correctly deploying optical sensors (thermal, multi- and hyperspectral) at near-range and mounted on remotely piloted aerial systems (aka RPAS or UAVs). By means of modern programming languages - such as Python and R - I am trying to find the best possible data processing technique in a reproducible and transparent manner.  
+<br>
+<br>
+<b>Plant Health</b>
+<br>
+<br>
+I strongly believe that our managed and natural landscapes can, and must, co-exist in a more efficient way. Human population is growing faster than ever and through the availability of global transport systems we are dispersing plant (and other) pathogens extremely quickly and farreaching. Remote sensing systems are capable of detecting and monitoring pathogen-related plant stress locally and globally and can be a tremendous boon for experts working with plants on the ground by providing them with valuable large-scale data in short intervals.  
+<br>
+<br>
+<b>Functional Plant Traits</b>
+<br>
+<br>
+The third concept of my research is the plant functional paradigm. Wright et al. <a href="https://www.nature.com/articles/nature02403">2004</a>
+showed that plant investments in leaf traits represent long-term adaptations to their biotic and abiotic living conditions. <a href="https://doi.org/10.1093/acprof:oso/9780198757368.001.0001">Relating leaf traits to plant - and therefore - ecosystem functionality</a>, can help us to better understand plant strategies and their adaptations to pathogens. If we understand how plant defenses are expressed in functional traits, we can translate those into optical traits. These can be picked up with remote sensing techniques. This interplay of discipline-specific knowledge can help us to cultivate and protect plant species at the same time.
+<br>
+<br>
 For more details, please browse this page or download my  
 <a href="/files/cv.pdf">CV</a>.
 </div>

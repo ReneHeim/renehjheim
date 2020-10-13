@@ -19,6 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Co-Lead - Remote Sensing of Plant Health Satellite Lab"
+  company = "Forestry and Agricultural Biotechnology Institute (FABI) and Gent University"
+  company_url = "https://www.fabinet.up.ac.za/index.php/research-groups/remote-sensing"
+  location = "Pretoria, South Africa; Gent, Belgium"
+  date_start = "2020-09-01"
+  date_end = ""
+  description = """
+  Responsibilities included:
+  
+  * Developing a remote sensing program for the detection and monitoring of plant pests and pathogens.
+  * Fostering cross-disciplinary communication and knowledge transfer
+  """
+[[experience]]
   title = "Postdoctoral Researcher"
   company = "Gent University"
   company_url = "https://www.ugent.be/en"
@@ -28,7 +41,8 @@ date_format = "Jan 2006"
   description = """
   Responsibilities included:
   
-  * TBA
+  * UAV sensor integration
+  * SMAC (Simultaneous Measurements of Leaf Area and Chlorophyll)
   """
 [[experience]]
   title = "Postdoctoral Researcher"
