@@ -21,7 +21,7 @@ organizations:
 #bio: My research interests include distributed robotics, mobile #computing and programmable matter.
 
 interests:
-- Hyperspectral and Thermal Remote Sensing
+- Optical Remote Sensing
 - Abiotic/Biotic Plant Stress
 - Plant Functional Ecology
 - Unmanned Aerial Systems
@@ -77,28 +77,9 @@ user_groups:
 ![](/img/logo.png)
 
 <div style = "text-align: justify">
-With a background in Bioengineering (B.Sc.) and Plant Biology (M.Sc.) I quickly realized that many vexing and global problems have a good chance of being solved by interdisciplinary teams. My role in such teams is to have a general understanding of the interfacing disciplines, to communicate concepts and ideas, and eventually translating those ideas into meaningful and applicable solutions.
-<br>
-<br>
-<b>Remote Sensing</b>
-<br>
-<br>
-My first core expertise lies in remote sensing of vegetated landscapes. I am mostly interested in correctly deploying optical sensors (thermal, multi- and hyperspectral) at near-range and mounted on remotely piloted aerial systems (aka RPAS or UAVs). By means of modern programming languages - such as Python and R - I am trying to find the best possible data processing technique in a reproducible and transparent manner.  
-<br>
-<br>
-<b>Plant Health</b>
-<br>
-<br>
-I strongly believe that our managed and natural landscapes can, and must, co-exist in a more efficient way. Human population is growing faster than ever and through the availability of global transport systems we are dispersing plant (and other) pathogens extremely quickly and farreaching. Remote sensing systems are capable of detecting and monitoring pathogen-related plant stress locally and globally and can be a tremendous boon for experts working with plants on the ground by providing them with valuable large-scale data in short intervals.  
-<br>
-<br>
-<b>Functional Plant Traits</b>
-<br>
-<br>
-The third concept of my research is the plant functional paradigm. Wright et al. <a href="https://www.nature.com/articles/nature02403">2004</a>
-showed that plant investments in leaf traits represent long-term adaptations to their biotic and abiotic living conditions. <a href="https://doi.org/10.1093/acprof:oso/9780198757368.001.0001">Relating leaf traits to plant - and therefore - ecosystem functionality</a>, can help us to better understand plant strategies and their adaptations to pathogens. If we understand how plant defenses are expressed in functional traits, we can translate those into optical traits. These can be picked up with remote sensing techniques. This interplay of discipline-specific knowledge can help us to cultivate and protect plant species at the same time.
+My studies in Bioengineering and Plant Ecology shaped my interest in inter-disciplinary research. I believe that the most vexing challenges human society faces cannot be solved unilaterally. A key interest is transferring and developing methods in optical remote sensing and applying them in digital disease detection and precision agriculture. With my research, I am hoping to optimize agricultural practices for securing a sustainable and healthy food production while mitigating their environmental impact.
 <br>
 <br>
 For more details, please browse this page or download my  
-<a href="/files/cv.pdf">CV</a>. TEST
+<a href="/files/cv.pdf">CV</a>.
 </div>
